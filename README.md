@@ -32,7 +32,6 @@ Application loads with no errors.
 
 ## Notes
 
-The following image shows the web application's appearance and functionality:
+[Live link](https://leybaair.github.io/Password-Generator/)
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
-
+Image Screen Shot: ![On a desktop, image displays finished project](./passwordgenerated.png)
